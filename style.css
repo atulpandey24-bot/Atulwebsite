@@ -1,18 +1,1 @@
-body{
-    font-family: Arial;
-    text-align: center;
-    background: linear-gradient(to right, rgb(227, 100, 8), rgb(69, 238, 8));
-    color: rgba(211, 224, 26, 0.637);
-    }
-    
-    header{
-    padding: 40px;
-    }
-    
-    button{
-    padding: 10px 20px;
-    font-size: 16px;
-    border: none;
-    background: rgb(5, 222, 204);
-    cursor: pointer;
-    }
+
